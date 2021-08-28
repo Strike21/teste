@@ -1,0 +1,143 @@
+body{
+    background-color: rgb(114, 112, 112);
+}
+h1{
+    position: absolute;
+    top: 10px;
+    bottom: 100px;
+    left: 410px;
+    right: 170px;
+    margin: auto;
+}
+.umh{
+    position: absolute;
+    top: 40px;
+    bottom: 120px;
+    left: 310px;
+    right: 500px;
+    margin: auto;
+    text-align:center;
+}
+.doish{
+    position: absolute;
+    top: 400px;
+    bottom: 100px;
+    left: 350px;
+    right: 540px;
+    margin: auto;
+    text-align: center;
+}
+h3{
+    position: absolute;
+    top: 580px;
+    bottom: 100px;
+    left: 350px;
+    right: 540px;
+    margin: auto;
+    text-align: center;
+}
+p{
+    position: absolute;
+    top: 690px;
+    bottom: 100px;
+    left: 350px;
+    right: 540px;
+    margin: auto;
+    text-align: center;
+}
+.discord {
+    width: 200px;
+    height: 35px;
+    position: absolute;
+    top: 180px;
+    bottom: 100px;
+    left: 460px;
+    right: 170px;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    padding: 0.3em 1.2em;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 2em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+    background-color: #5e69fd;
+    text-align: center;
+    transition: all 0.2s;
+}
+.email {
+    width: 200px;
+    height: 35px;
+    position: absolute;
+    top: 230px;
+    bottom: 100px;
+    left: 460px;
+    right: 170px;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    padding: 0.3em 1.2em;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 2em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+    background-color: #f70000;
+    text-align: center;
+    transition: all 0.2s;
+}
+.intagram {
+    width: 200px;
+    height: 35px;
+    position: absolute;
+    top: 280px;
+    bottom: 100px;
+    left: 460px;
+    right: 170px;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    padding: 0.3em 1.2em;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 2em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+    background-color: #f060d8;
+    text-align: center;
+    transition: all 0.2s;
+}
+.github {
+    width: 200px;
+    height: 35px;
+    position: absolute;
+    top: 330px;
+    bottom: 100px;
+    left: 460px;
+    right: 170px;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    padding: 0.3em 1.2em;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 2em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto',
+        sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+    background-color: #000000;
+    text-align: center;
+    transition: all 0.2s;
+}
